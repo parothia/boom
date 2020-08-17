@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:theme="@android:style/Theme.Light"
+    android:background="#99b3cc">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Boom means sudden rise in economic profit. So this app help in marketing name. We create an app which helps in gaining profit and equality. If you have your Shop, PG, Store, Outlet or anything which you want to sell or give it for rent. This app will help you in achieving your goal. The only thing you have to do is to create an account and mark your location. Save your shop name or anything you want to tell people about yourself or your shop or your house on rent. Then other people will search for what they want and if they find you, this will definitely increase your profit. So USE, SHARE and ENJOY."
+        android:id="@+id/textView4"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="bOOm"
+        android:id="@+id/textView5"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="40dp"
+        android:textStyle="italic" />
+</RelativeLayout>
